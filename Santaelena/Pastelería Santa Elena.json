@@ -1,0 +1,466 @@
+[
+    {
+        "name": "Pastelería Santa Elena Centro Comercial Mayorca Etapa 1",
+        "address": "Medellín, Calle 51 Sur # 48 – 57 Local 324",
+        "latlon": [
+            [
+                6.16163,
+                -75.60484
+            ]
+        ],
+        "phones": [
+            "3256600 ext 4906"
+        ],
+        "working_hours": [
+            "mon - sat 9:00 – 8:00  sun 11:30 – 7:30 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Centro Comercial MayorcaEtapa 2",
+        "address": "Medellín, Calle 51 Sur # 48 – 57 Local 0910",
+        "latlon": [
+            [
+                4.55798,
+                -74.12221
+            ]
+        ],
+        "phones": [
+            "3256600 ext 4910"
+        ],
+        "working_hours": [
+            "mon - sat 9:00 – 8:00  sun 11:30 – 7:30 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Centro Comercial Oviedo",
+        "address": "Medellín, Cra. 43a # 6 Sur – 15 Local 1324",
+        "latlon": [
+            [
+                3.44891,
+                -76.52748
+            ]
+        ],
+        "phones": [
+            "3256600 ext 4902"
+        ],
+        "working_hours": [
+            "mon - sat 9:00 – 8:00  sun 11:30 – 7:30 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Centro Comercial Unicentro",
+        "address": "Medellín, Cra 66 B # 34 A 76Local 200",
+        "latlon": [
+            [
+                6.24153,
+                -75.58744
+            ]
+        ],
+        "phones": [
+            "3256600 ext 4907"
+        ],
+        "working_hours": [
+            "mon - sat 8:30 – 8:30  sun 10:30 – 7:30 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Mall La Frontera",
+        "address": "Medellín, Cra. 43a # 18 Sur – 166Local 108",
+        "latlon": [
+            [
+                6.18413,
+                -75.57894
+            ]
+        ],
+        "phones": [
+            "3256600 ext 4903"
+        ],
+        "working_hours": [
+            "mon - sat 7:00 – 7:30  sun 8:30 – 5:00 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Estación Ferrocarril",
+        "address": "Medellín, Cra. 52 # 43-31",
+        "latlon": [
+            [
+                4.43775,
+                -75.23419
+            ]
+        ],
+        "phones": [
+            "3256600 ext 4913"
+        ],
+        "working_hours": [
+            "mon - fri 6:30 – 5:30  sats 7:00 – 12:00 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Viva Laureles",
+        "address": "Medellín, Carrera 81 # 37 – 100 Local 005",
+        "latlon": [
+            [
+                6.24604,
+                -75.60243
+            ]
+        ],
+        "phones": [
+            "3256600 ext 4912"
+        ],
+        "working_hours": [
+            "mon - sat 8:30 – 8:00  sun y holidays 10:30 – 7:00 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Terminal del Sur",
+        "address": "Medellín, Cra. 65 # 8 B 91Local 146",
+        "latlon": [
+            [
+                6.2163,
+                -75.58648
+            ]
+        ],
+        "phones": [
+            "3256600 ext 4905"
+        ],
+        "working_hours": [
+            "mon - sat 7:30 – 6:30  sun 8:30 – 6:00 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Aeropuerto Olaya Herrera",
+        "address": "Medellín, Cra. 65a # 13 – 157Local 27 – 28",
+        "latlon": [
+            [
+                6.21956,
+                -75.58668
+            ]
+        ],
+        "phones": [
+            "3256600 ext 4904"
+        ],
+        "working_hours": [
+            "mon - sat 4:30 – 5:30  sun 6:30 – 5:00 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Terminal del Norte",
+        "address": "Medellín, Carrera. 64c # 78 – 580Local 490",
+        "latlon": [
+            [
+                6.2796,
+                -75.57146
+            ]
+        ],
+        "phones": [
+            "3256600 ext 4908"
+        ],
+        "working_hours": [
+            "mon - sat 7:00 – 8:30  sun 8:30 – 7:30 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Parque el Poblado",
+        "address": "Medellín, Carrera 43A # 8 – 36",
+        "latlon": [
+            [
+                6.20929,
+                -75.57089
+            ]
+        ],
+        "phones": [
+            "3256600 ext 4901"
+        ],
+        "working_hours": [
+            "mon - sat 7:00 – 6:30  sun 9:30 – 3:30 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Centro Comercial El Retiro",
+        "address": "Bogotá, Calle 82 11-75 Local 124",
+        "latlon": [
+            [
+                4.66659,
+                -74.0519
+            ]
+        ],
+        "phones": [
+            "No phones"
+        ],
+        "working_hours": [
+            "mon - sat 9:00 - 8:00 sun y holidays:  9:30 - 7:00 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Centro Comercial Hacienda Santa Bárbara",
+        "address": "Bogotá, Av. Cra. 7 # 115 – 60 Local 220",
+        "latlon": [
+            [
+                4.69353,
+                -74.0331
+            ]
+        ],
+        "phones": [
+            "No phones"
+        ],
+        "working_hours": [
+            "mon - sat 9:00 - 7:30 sun y holidays: 9:30 - 6:00 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Calle 119",
+        "address": "Bogotá, Calle 119 # 14 – 10",
+        "latlon": [
+            [
+                4.69877,
+                -74.04156
+            ]
+        ],
+        "phones": [
+            "No phones"
+        ],
+        "working_hours": [
+            "mon - sat 8:00 - 6:30 Domingo y holidays: 8:00 - 6:00 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Ktronix Salitre",
+        "address": "Bogotá, Cra 68b # 25 B – 80",
+        "latlon": [
+            [
+                4.65528,
+                -74.10567
+            ]
+        ],
+        "phones": [
+            "No phones"
+        ],
+        "working_hours": [
+            "mon - sat 8:30 - 7:30 sun y holidays: 8:30 - 6:00 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Calle 95",
+        "address": "Bogotá, Calle 95 # 13 – 55",
+        "latlon": [
+            [
+                4.67665,
+                -74.04164
+            ]
+        ],
+        "phones": [
+            "No phones"
+        ],
+        "working_hours": [
+            "mon - sat 8:30 - 6:00 sun y holidays: 9:30 - 6:00 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Aeropuerto Internacional El Dorado - Puente Aéreo",
+        "address": "Bogotá, Terminal Puente Aéreo",
+        "latlon": [
+            [
+                4.69712,
+                -74.13977
+            ]
+        ],
+        "phones": [
+            "No phones"
+        ],
+        "working_hours": [
+            "mon - sun includes holidays 6:30 - 9:30 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Aeropuerto Internacional El Dorado - Muelle Norte",
+        "address": "Bogotá, Aeropuerto El Dorado – Terminal 1 muelle Nacional Norte",
+        "latlon": [
+            [
+                4.69712,
+                -74.13977
+            ]
+        ],
+        "phones": [
+            "No phones"
+        ],
+        "working_hours": [
+            "24-hour service."
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Aeropuerto Internacional El Dorado - Hall Público",
+        "address": "Bogotá, Aeropuerto El Dorado – Llegadas nacionales",
+        "latlon": [
+            [
+                4.69712,
+                -74.13977
+            ]
+        ],
+        "phones": [
+            "No phones"
+        ],
+        "working_hours": [
+            "24-hour service."
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Aeropuerto Internacional Los Garzones - Zona Pública",
+        "address": "Montería, Km 10 vía MonteríaLocal 102 – Zona pública",
+        "latlon": [
+            [
+                8.82527,
+                -75.82406
+            ]
+        ],
+        "phones": [
+            "3116447470"
+        ],
+        "working_hours": [
+            "mon - sat 6:30 - 8:30 sun y holidays: 6:30 - 8:30 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Aeropuerto Internacional Los Garzones - Sala Abordaje",
+        "address": "Montería, Km 10 vía MonteríaLocal 107 – Sala de abordaje",
+        "latlon": [
+            [
+                8.82527,
+                -75.82406
+            ]
+        ],
+        "phones": [
+            "3116447470"
+        ],
+        "working_hours": [
+            "mon - sat 6:30 - 8:30 sun y holidays: 6:30 - 8:30 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Aeropuerto Internacional Ernesto Cortissoz – Soledad, Barranquilla",
+        "address": "Barranquilla, Frente al counter de Copa Air LinesLocal 020516",
+        "latlon": [
+            [
+                10.88629,
+                -74.77618
+            ]
+        ],
+        "phones": [
+            "316 017 5000"
+        ],
+        "working_hours": [
+            "mon - sat 4:00 - 8:30 sun y holidays: 6:30 - 8:30 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Aeropuerto Internacional Matecaña – Pereira, Risaralda",
+        "address": "Pereira, Km 4 Vía Cerritos, Local 59",
+        "latlon": [
+            [
+                4.81567,
+                -75.73823
+            ]
+        ],
+        "phones": [
+            "315 366 1214"
+        ],
+        "working_hours": [
+            "mon - domingo 5:00 - 12:00 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Centro Comercial Mayorca Etapa 1",
+        "address": "Medellín, Calle 51 Sur # 48 – 57 Local 324",
+        "latlon": [
+            [
+                6.16163,
+                -75.60484
+            ]
+        ],
+        "phones": [
+            "3256600 ext 4906"
+        ],
+        "working_hours": [
+            "mon - sat 9:00 – 8:00  sun 11:30 – 7:30 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Centro Comercial MayorcaEtapa 2",
+        "address": "Medellín, Calle 51 Sur # 48 – 57 Local 0910",
+        "latlon": [
+            [
+                4.55798,
+                -74.12221
+            ]
+        ],
+        "phones": [
+            "3256600 ext 4910"
+        ],
+        "working_hours": [
+            "mon - sat 9:00 – 8:00  sun 11:30 – 7:30 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Centro Comercial Oviedo",
+        "address": "Medellín, Cra. 43a # 6 Sur – 15 Local 1324",
+        "latlon": [
+            [
+                3.44891,
+                -76.52748
+            ]
+        ],
+        "phones": [
+            "3256600 ext 4902"
+        ],
+        "working_hours": [
+            "mon - sat 9:00 – 8:00  sun 11:30 – 7:30 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Centro Comercial Unicentro",
+        "address": "Medellín, Cra 66 B # 34 A 76Local 200",
+        "latlon": [
+            [
+                6.24153,
+                -75.58744
+            ]
+        ],
+        "phones": [
+            "3256600 ext 4907"
+        ],
+        "working_hours": [
+            "mon - sat 8:30 – 8:30  sun 10:30 – 7:30 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Mall La Frontera",
+        "address": "Medellín, Cra. 43a # 18 Sur – 166Local 108",
+        "latlon": [
+            [
+                6.18413,
+                -75.57894
+            ]
+        ],
+        "phones": [
+            "3256600 ext 4903"
+        ],
+        "working_hours": [
+            "mon - sat 7:00 – 7:30  sun 8:30 – 5:00 "
+        ]
+    },
+    {
+        "name": "Pastelería Santa Elena Estación Ferrocarril",
+        "address": "Medellín, Cra. 52 # 43-31",
+        "latlon": [
+            [
+                4.43775,
+                -75.23419
+            ]
+        ],
+        "phones": [
+            "3256600 ext 4913"
+        ],
+        "working_hours": [
+            "mon - fri 6:30 – 5:30  sat 7:00 – 12:00 "
+        ]
+    }
+]
