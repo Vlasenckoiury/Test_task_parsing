@@ -14,7 +14,6 @@ API_KEY = os.getenv("API_KEY")
 
 class Parser:
     links_to_parse = [f'https://www.santaelena.com.co/tiendas-pasteleria/']
-    # links_to_parse = [f'https://www.santaelena.com.co/tiendas-pasteleria/tiendas-pastelerias-pereira/']
 
     @staticmethod
     def get_sity_by_link(self, link):
